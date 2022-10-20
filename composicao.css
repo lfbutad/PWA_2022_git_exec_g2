@@ -1,9 +1,14 @@
- .bloco2 img
+.bloco2 
+{
+   width: 500px;
+   float: left;
+}
+.bloco2 img
  {
-    width: 500px;
+    margin: 10px;
     float: left;
  }
- .bloco3 img
+ .bloco3
  {
     margin-left: 700px;
  }
