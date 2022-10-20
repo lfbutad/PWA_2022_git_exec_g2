@@ -1,11 +1,13 @@
  .bloco2 img
  {
-    margin: 10px;
+    width: 500px;
     float: left;
  }
+ .bloco3 img
+ {
+    margin-left: 700px;
+ }
  .base{
-
    width: 960px;
    margin: auto;
-   
  }
